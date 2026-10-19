@@ -1,7 +1,7 @@
+<img width="2172" height="724" alt="Modern Full Stack Developer Portfolio Banner" src="sakibul-amin-github-banner.png" />
 
 <!--- title --->
 <div id="user-content-toc">
-<img width="2172" height="724" alt="Modern Full Stack Developer Portfolio Banner" src="https://github.com/user-attachments/assets/a960d5f0-4e32-461e-a7c6-692b5db51485" />
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm SAKIBUL AMIN</h1></summary>
     <!--- typo --->
